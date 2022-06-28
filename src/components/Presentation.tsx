@@ -4,7 +4,7 @@ import { EnvelopeSimple, GithubLogo, LinkedinLogo, RocketLaunch } from "phosphor
 export function Presentation(){
     return(
         <div className="flex flex-col min-h-screen items-center">
-            <div className="flex gap-14 max-w-[800px] mt-64">
+            <div className="flex gap-14 max-w-[824px] mt-64">
                 
                 <img className="h-48 w-48 rounded-full border-2 border-sky-400" src="https://github.com/Kv1ecz.png" alt=""/>
                 
